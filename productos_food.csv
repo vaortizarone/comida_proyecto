@@ -1,0 +1,466 @@
+ID_prod,producto,variante,tipo_tienda
+50,Beans,NA,Retail
+50,Beans,NA,Wholesale
+51,Maize,NA,Wholesale
+51,Maize,NA,Retail
+52,Rice,NA,Retail
+52,Rice,NA,Wholesale
+54,Maize meal,NA,Retail
+55,Bread,NA,Retail
+56,Maize ,Local,Retail
+57,Rice ,Tchako,Retail
+58,Wheat flour,NA,Retail
+58,Wheat flour,NA,Wholesale
+60,Rice ,Coarse,Retail
+61,Lentils ,Masur,Retail
+62,Oil ,Palm,Retail
+62,Oil ,Palm,Wholesale
+64,Rice ,Imported,Retail
+64,Rice ,Imported,Wholesale
+65,Sorghum,NA,Retail
+65,Sorghum,NA,Wholesale
+66,Beans ,White,Retail
+67,Maize ,White,Retail
+67,Maize ,White,Wholesale
+68,Cassava,NA,Wholesale
+68,Cassava,NA,Retail
+70,Rice ,"Denikassia, Imported",Retail
+71,Rice ,Local,Retail
+71,Rice ,Local,Wholesale
+72,Yam ,Florido,Retail
+73,Millet,NA,Wholesale
+73,Millet,NA,Retail
+74,Cassava flour,NA,Retail
+76,Maize flour,NA,Wholesale
+76,Maize flour,NA,Retail
+77,Maize flour ,Imported,Retail
+78,Beans ,Red,Wholesale
+78,Beans ,Red,Retail
+79,Beans ,Silk Red,Wholesale
+80,Rice ,"Regular, Milled",Retail
+80,Rice ,"Regular, Milled",Wholesale
+81,Milk,NA,Retail
+82,Oil ,Cooking,Retail
+83,Potatoes,NA,Retail
+83,Potatoes,NA,Wholesale
+84,Wheat,NA,Retail
+84,Wheat,NA,Wholesale
+85,Beans ,Black,Wholesale
+85,Beans ,Black,Retail
+86,Rice ,Milled 80-20,Wholesale
+86,Rice ,Milled 80-20,Retail
+87,Sweet potatoes,NA,Retail
+87,Sweet potatoes,NA,Wholesale
+89,Meat ,"Chicken, Broiler",Retail
+90,Chili ,Green,Retail
+91,Chili ,Red,Retail
+92,Eggs,NA,Retail
+92,Eggs,NA,Wholesale
+94,Meat ,Chicken,Retail
+94,Meat ,Chicken,Wholesale
+95,Milk ,Condensed,Retail
+96,Oil ,Vegetable,Retail
+96,Oil ,Vegetable,Wholesale
+97,Sugar,NA,Retail
+97,Sugar,NA,Wholesale
+98,Plantains ,Apentu,Wholesale
+99,Yam,NA,Wholesale
+99,Yam,NA,Retail
+100,Fonio,NA,Retail
+101,Oil ,"Vegetable, Imported",Retail
+102,Milk ,Non-Pasteurized,Retail
+104,Beans ,Fava,Retail
+105,Garlic,NA,Wholesale
+105,Garlic,NA,Retail
+106,Ghee ,Artificial,Retail
+107,Ghee ,Natural,Retail
+108,Lentils,NA,Retail
+110,Onions ,Red,Wholesale
+110,Onions ,Red,Retail
+111,Onions ,White,Wholesale
+111,Onions ,White,Retail
+112,Pasta,NA,Retail
+112,Pasta,NA,Wholesale
+114,Tomatoes,NA,Retail
+114,Tomatoes,NA,Wholesale
+117,Rice ,"Paddy, Long Grain, Local",Retail
+118,Groundnuts ,Unshelled,Wholesale
+118,Groundnuts ,Unshelled,Retail
+119,Groundnuts ,Shelled,Wholesale
+119,Groundnuts ,Shelled,Retail
+120,Beans ,Niebe,Retail
+120,Beans ,Niebe,Wholesale
+122,Rice ,"Basmati, Broken",Retail
+123,Meat ,"Beef, Chops With Bones",Retail
+123,Meat ,"Beef, Chops With Bones",Wholesale
+124,Bread ,Common,Retail
+125,Meat ,"Chicken, Whole",Retail
+125,Meat ,"Chicken, Whole",Wholesale
+126,Noodles ,Short,Retail
+127,Potatoes ,Dutch,Retail
+128,Potatoes ,"Irish, Imilla",Retail
+129,Rice ,Carolina 2da,Retail
+130,Rice ,Estaquilla,Retail
+131,Rice ,Medium Grain,Retail
+133,Rice ,White,Retail
+133,Rice ,White,Wholesale
+134,Maize flour ,White,Wholesale
+134,Maize flour ,White,Retail
+135,Sorghum ,White,Wholesale
+135,Sorghum ,White,Retail
+136,Maize ,Yellow,Wholesale
+136,Maize ,Yellow,Retail
+137,Oil,NA,Retail
+138,Poultry,NA,Retail
+139,Fish,NA,Retail
+140,Meat ,Pork,Retail
+140,Meat ,Pork,Wholesale
+141,Meat ,Beef,Retail
+141,Meat ,Beef,Wholesale
+142,Cheese ,Dry,Retail
+142,Cheese ,Dry,Wholesale
+144,Potatoes ,Black,Retail
+145,Rice ,Low Quality,Retail
+146,Millet ,White,Retail
+147,Plantains,NA,Wholesale
+147,Plantains,NA,Retail
+148,Potatoes ,Irish,Retail
+148,Potatoes ,Irish,Wholesale
+150,Cocoa,NA,Wholesale
+150,Cocoa,NA,Retail
+151,Coffee,NA,Wholesale
+151,Coffee,NA,Retail
+152,Fish ,Bonga,Retail
+153,Groundnuts,NA,Retail
+155,Pigeon peas,NA,Retail
+156,Sesame,NA,Wholesale
+156,Sesame,NA,Retail
+157,Rice ,Red Nadu,Retail
+158,Maize ,Imported,Retail
+159,Bread ,Brown,Retail
+161,Peas ,"Split, Dry",Retail
+162,Rice ,Long Grain,Retail
+163,Pulses,NA,Retail
+165,Rice ,"Mixed, Low Quality",Wholesale
+165,Rice ,"Mixed, Low Quality",Retail
+166,Carrots,NA,Retail
+166,Carrots,NA,Wholesale
+167,Cashew,NA,Retail
+169,Cornstarch,NA,Retail
+170,Fish ,Appolo,Retail
+171,Fish ,Dry,Wholesale
+171,Fish ,Dry,Retail
+172,Oil ,Cotton,Retail
+173,Onions,NA,Retail
+173,Onions,NA,Wholesale
+174,Peanut,NA,Retail
+175,Tea ,Black,Retail
+176,Tea ,Green,Retail
+177,Wheat flour ,First Grade,Retail
+178,Wheat flour ,High Quality,Retail
+179,Wheat flour ,Local,Retail
+180,Beans ,Kidney,Retail
+181,Cabbage,NA,Retail
+181,Cabbage,NA,Wholesale
+183,Meat ,Mutton,Retail
+184,Oil ,Sunflower,Retail
+184,Oil ,Sunflower,Wholesale
+185,Salt,NA,Wholesale
+185,Salt,NA,Retail
+186,Peas ,Yellow,Wholesale
+186,Peas ,Yellow,Retail
+187,Meat ,"Beef, First Quality",Retail
+188,Meat ,"Beef, Second Quality",Retail
+189,Meat ,"Buffalo, First Quality",Retail
+190,Meat ,"Buffalo, Second Quality",Retail
+192,Meat ,"Pork, First Quality",Retail
+193,Meat ,"Pork, Second Quality",Retail
+194,Rice ,"Glutinous, First Quality",Retail
+195,Rice ,"Glutinous, Second Quality",Retail
+196,Rice ,"Glutinous, Unmilled",Retail
+197,Rice ,"Ordinary, First Quality",Wholesale
+197,Rice ,"Ordinary, First Quality",Retail
+198,Rice ,"Ordinary, Second Quality",Wholesale
+198,Rice ,"Ordinary, Second Quality",Retail
+199,Rice ,"Ordinary, Unmilled",Retail
+200,Sorghum ,Taghalit,Retail
+201,Sorghum ,Imported,Retail
+203,Rice ,Paddy,Wholesale
+203,Rice ,Paddy,Producer
+203,Rice ,Paddy,Retail
+203,Rice ,Paddy,Farm Gate
+206,Beans ,Kidney Red,Retail
+207,Meat ,"Chicken, Frozen",Retail
+208,Chickpeas ,Imported,Wholesale
+209,Coffee ,Instant,Wholesale
+209,Coffee ,Instant,Retail
+210,Eggs ,"White, Aa",Wholesale
+211,Meat ,"Beef, Minced",Wholesale
+211,Meat ,"Beef, Minced",Retail
+212,Peas ,"Green, Dry",Wholesale
+212,Peas ,"Green, Dry",Retail
+213,Potatoes ,Unica,Wholesale
+213,Potatoes ,Unica,Retail
+214,Sugar ,Brown,Wholesale
+214,Sugar ,Brown,Retail
+215,Sugar ,"Brown, Loaf",Wholesale
+217,Cassava meal,NA,Retail
+218,Cowpeas,NA,Retail
+221,Maize meal ,"White, First Grade",Retail
+222,Oil ,"Vegetable, Local",Retail
+223,Sugar ,"Brown, Imported",Retail
+224,Sugar ,"Brown, Local",Retail
+225,Rice ,"Long Grain, Imported",Retail
+226,Rice ,"Medium Grain, Imported",Retail
+227,Rice ,"Small Grain, Imported",Retail
+228,Oil ,Mustard,Retail
+229,Apples ,Red,Retail
+229,Apples ,Red,Wholesale
+230,Bananas ,Medium Size,Retail
+231,Cauliflower,NA,Wholesale
+231,Cauliflower,NA,Retail
+233,Cucumbers ,Greenhouse,Retail
+233,Cucumbers ,Greenhouse,Wholesale
+234,Fish ,Red Snapper,Retail
+236,Meat ,"Goat, With Bones",Retail
+237,Meat ,"Chicken, Plucked",Retail
+238,Milk ,Powder,Retail
+239,Oil ,Olive,Retail
+240,Onions ,"Dry, Local",Retail
+241,Oranges ,Big Size,Wholesale
+241,Oranges ,Big Size,Retail
+242,Potatoes ,Medium Size,Retail
+243,Tomatoes ,Greenhouse,Retail
+244,Chickpeas,NA,Retail
+245,Oil ,Groundnut,Retail
+247,Rice ,High Quality,Wholesale
+247,Rice ,High Quality,Retail
+248,Soybeans,NA,Wholesale
+248,Soybeans,NA,Retail
+249,Sorghum ,Food Aid,Retail
+251,Rice ,"Imported, Indian",Retail
+253,Sorghum flour,NA,Retail
+254,Bananas,NA,Retail
+254,Bananas,NA,Wholesale
+258,Bulgur,NA,Retail
+258,Bulgur,NA,Wholesale
+259,Bread ,Khoboz,Retail
+260,Cassava meal ,Foufou,Retail
+262,Beans ,Dry,Retail
+262,Beans ,Dry,Wholesale
+263,Beans ,Fresh,Retail
+264,Maize meal ,"White, Roller",Retail
+265,Maize meal ,"White, Breakfast",Retail
+268,Beans ,"Red, Fresh",Wholesale
+269,Tortilla ,Maize,Retail
+274,Wage ,Qualified Labour,Retail
+275,Livestock ,"Sheep, One-Year-Old Alive Female",Retail
+277,Wage ,Non-Qualified Labour,Retail
+278,Bread ,Bakery,Retail
+280,Bread ,Shop,Retail
+281,Tea,NA,Retail
+282,Sorghum ,Red,Wholesale
+282,Sorghum ,Red,Retail
+283,Fuel ,Kerosene,Retail
+284,Fuel ,Diesel,Retail
+284,Fuel ,Diesel,Wholesale
+285,Fuel ,Petrol-Gasoline,Retail
+285,Fuel ,Petrol-Gasoline,Wholesale
+286,Maize meal ,"White, With Bran",Retail
+287,Livestock ,Cattle,Retail
+288,Garlic ,Large,Retail
+289,Garlic ,Small,Retail
+290,Cassava ,Dry,Wholesale
+290,Cassava ,Dry,Retail
+291,Cassava ,Fresh,Retail
+292,Peppers ,Green,Retail
+296,Potatoes ,"Irish, Imported",Retail
+297,Potatoes ,"Irish, Local",Retail
+298,Eggs ,Imported,Retail
+299,Meat ,"Chicken, Imported",Retail
+300,Fish ,Smoked,Retail
+301,Fish ,Salted,Retail
+302,Cassava ,Cossette,Wholesale
+302,Cassava ,Cossette,Retail
+303,Cassava ,Chikwangue,Retail
+304,Transport ,Public,Retail
+305,Exchange rate,NA,Retail
+306,Oil ,Soybean,Retail
+307,Barley,NA,Retail
+308,Teff,NA,Wholesale
+309,Fish ,Snake Head,Retail
+310,Fish ,Catfish,Retail
+311,Fish ,"Tilapia, Farmed",Retail
+313,Dates,NA,Retail
+314,Cheese ,Local,Retail
+316,Rice ,"Imported, Egyptian",Retail
+317,Tomatoes ,Paste,Retail
+318,Lettuce,NA,Retail
+319,Cheese ,Picon,Retail
+320,Meat ,"Beef, Canned",Retail
+321,Fish ,"Sardine, Canned",Retail
+322,Fish ,"Tuna, Canned",Retail
+323,Onions ,Imported,Retail
+324,Onions ,Local,Retail
+325,Lentils ,Moong,Retail
+326,Beans,Mash,Retail
+329,Meat ,"Pork, With Fat",Retail
+331,Sugar ,Jaggery/Gur,Retail
+332,Lentils ,Urad,Retail
+333,Ghee ,Vanaspati,Retail
+334,Salt ,Iodised,Retail
+339,Wheat flour ,Imported,Retail
+340,Squashes,NA,Retail
+341,Fuel ,Gas,Retail
+342,Milk ,Camel,Retail
+343,Fish ,Canned,Retail
+344,Meat ,Camel,Retail
+345,Apples,NA,Retail
+349,Sugar ,White,Retail
+351,Groundnuts ,Paste,Retail
+354,Beans ,Sugar-Red,Retail
+355,Groundnuts ,Mix,Retail
+357,Tea ,Sahm,Retail
+360,Oranges,NA,Retail
+361,Livestock ,"Sheep, Two-Year-Old Male",Retail
+362,Oil ,Maize,Retail
+363,Labaneh,NA,Retail
+364,Yogurt,NA,Retail
+365,Cheese ,Goat,Retail
+366,Wheat flour ,Locally Processed,Retail
+367,Curd,NA,Retail
+368,Sour cream,NA,Retail
+369,Meat ,"Mixed, Sausage",Retail
+370,Beetroots,NA,Retail
+372,Butter,NA,Retail
+373,Buckwheat grits,NA,Retail
+374,Bread ,Rye,Retail
+375,Bread ,Wheat,Retail
+376,Fat ,Salo,Retail
+381,Rice ,"Imported, Tanzanian",Retail
+382,Corn Soy Blend ,"Csb++, Food Aid",Retail
+383,Livestock ,Goat,Retail
+384,Bread ,Pita,Retail
+385,Beans ,"Fava, Dry",Retail
+386,Meat ,Lamb,Retail
+387,Cheese ,"White, Boiled",Retail
+388,Cucumbers,NA,Retail
+389,Beans ,Kidney White,Retail
+390,Livestock ,Sheep,Retail
+392,Beans ,Haricot,Retail
+393,Beans ,Mung,Retail
+394,Chickpeas ,Local,Retail
+395,Oil ,Mixed,Retail
+396,Oil ,"Mixed, Imported",Retail
+400,Rice ,"White, Imported",Retail
+401,Fish ,Fresh,Retail
+401,Fish ,Fresh,Wholesale
+403,Cassava meal ,Gari,Retail
+404,Spinach,NA,Wholesale
+404,Spinach,NA,Retail
+405,Fish ,Tilapia,Wholesale
+405,Fish ,Tilapia,Retail
+406,Beans ,String,Wholesale
+407,Guava,NA,Wholesale
+407,Guava,NA,Retail
+408,Papaya,NA,Wholesale
+408,Papaya,NA,Retail
+409,Blackberry,NA,Wholesale
+410,Broccoli,NA,Wholesale
+411,Mangoes,NA,Wholesale
+411,Mangoes,NA,Retail
+412,Pumpkin,NA,Wholesale
+412,Pumpkin,NA,Retail
+413,Tomatoes ,Dried,Wholesale
+414,Cheese,NA,Wholesale
+414,Cheese,NA,Retail
+415,Lentils ,Imported,Wholesale
+418,Beans ,Butter,Retail
+419,Beans ,Magnum,Retail
+420,Groundnuts ,"Large, Shelled",Retail
+421,Groundnuts ,"Small, Shelled",Retail
+422,Livestock ,Pig,Retail
+424,Peas ,"Yellow, Split",Retail
+425,Rice ,"High Quality, Local",Retail
+426,Rice ,"Low Quality, Local",Retail
+427,Beans ,Catarino,Retail
+431,Maize meal ,"White, Without Bran",Retail
+432,Beans ,Sugar,Retail
+433,Meat ,Veal,Retail
+434,Eggplants,NA,Retail
+436,Rice ,Good Quality,Retail
+439,Milk ,"Cow, Fresh",Retail
+442,Milk ,"Powder, Infant Formula",Retail
+446,Charcoal,NA,Retail
+447,Passion fruit,NA,Retail
+449,Peppers ,Sweet,Retail
+450,Zucchini,NA,Retail
+451,Meat ,Goat,Retail
+453,Livestock ,Hen,Retail
+454,Avocados,NA,Retail
+455,Cassava leaves,NA,Retail
+456,Peas ,Fresh,Retail
+457,Peas ,Dry,Retail
+458,Beans ,"Green, Fresh",Retail
+459,Bread ,High Grade Flour,Retail
+460,Bread ,First Grade Flour,Retail
+463,Milk ,Pasteurized,Retail
+463,Milk ,Pasteurized,Wholesale
+464,Meat ,Sheep,Retail
+465,Wage ,"Non-Qualified Labour, Non-Agricultural",Retail
+466,Chili ,"Red, Dry Raw",Retail
+467,Wage ,"Non-Qualified Labour, Agricultural",Retail
+468,Meat ,"Beef, Without Bones",Retail
+469,Parsley,NA,Retail
+470,Yeast,NA,Retail
+471,Maize meal ,Local,Retail
+472,Milk ,"Cow, Pasteurized",Retail
+473,Exchange rate ,Unofficial,Retail
+476,Livestock ,"Sheep, Medium-Sized Castrated Male",Retail
+477,Livestock ,"Goat, Medium-Sized Castrated Male",Retail
+478,Sorghum ,Berbere,Retail
+479,Cowpeas ,White,Wholesale
+479,Cowpeas ,White,Retail
+480,Cowpeas ,Brown,Wholesale
+480,Cowpeas ,Brown,Retail
+481,Sorghum ,Brown,Wholesale
+481,Sorghum ,Brown,Retail
+482,Gari ,Yellow,Wholesale
+482,Gari ,Yellow,Retail
+483,Gari ,White,Wholesale
+483,Gari ,White,Retail
+484,Yam ,Abuja,Wholesale
+484,Yam ,Abuja,Retail
+486,Fish ,Frozen,Retail
+488,Cotton,NA,Retail
+489,Water ,Drinking,Retail
+490,Beans ,"Niebe, White",Retail
+491,Electricity,NA,Retail
+492,Tea ,Herbal,Retail
+493,Water,NA,Retail
+494,Oil ,"Vegetable, Fortified",Retail
+495,Maize meal ,"White, Fortified",Retail
+496,Wheat flour ,Fortified,Retail
+497,Sugar ,"White, Fortified",Retail
+498,Maize ,"Yellow, Biofortified",Retail
+499,Millet ,Biofortified,Retail
+500,Sorghum ,Biofortified,Retail
+501,Beans ,"Sugar, Biofortified",Retail
+502,Cocoa ,Powder,Retail
+503,Cassava meal ,Attieke,Retail
+505,Fuel ,"Diesel, Parallel Market",Retail
+506,Fuel ,"Petrol-Gasoline, Parallel Market",Retail
+507,Livestock ,"Sheep, Medium-Sized Male",Retail
+508,Livestock ,"Goat, Medium-Sized Male",Retail
+510,Sorghum ,"White, Imported",Retail
+511,Sorghum ,Local,Retail
+512,Milling cost ,Sorghum,Retail
+536,Dishwashing liquid,NA,Retail
+537,Toothbrush ,NA,Retail
+538,Sanitary pads,NA,Retail
+539,Toothpaste,NA,Retail
+540,Laundry soap,NA,Retail
+541,Handwash soap,NA,Retail
+542,Couscous,NA,Retail
+543,Laundry detergent,NA,Retail
+545,Shampoo,NA,Retail
